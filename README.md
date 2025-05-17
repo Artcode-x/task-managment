@@ -48,7 +48,7 @@ https://dapper-llama-8fa316.netlify.app/
 Для клонирования репозитория выполните команду:
 
 ```
-git clone (https://github.com/Artcode-x/task-managment)
+git clone https://github.com/Artcode-x/task-managment
 ```
 
 Перейти в папку проекта и установить зависимости перед запуском:
